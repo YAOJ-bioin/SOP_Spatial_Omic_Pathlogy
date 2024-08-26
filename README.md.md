@@ -1,4 +1,4 @@
-**SOP** （Spatial_Omic_Pathlogy）空间组学病理标准化工具
+# **SOP** （Spatial_Omic_Pathlogy）空间组学病理标准化工具
 代码地址：https://github.com/YAOJ-bioin/SOP_Spatial_Omic_Pathlogy
 _SOP的常用含义为 Standard Operation Procedure 标准作业程序_
 # R版本
